@@ -1,0 +1,24 @@
+{
+  "exchangeRate": {
+    "USD_RATE": 1121.23,
+    "WON_RATE": 9.0E-4,
+    "KES_RATE": 10.24,
+    "GBP_RATE": 1555.25,
+    "EUR_RATE": 1343.76,
+    "YUN_RATE": 175.44,
+    "YEN_RATE": 10.33,
+    "RUP_RATE": 0.077,
+    "FRC_RATE": 1218.39,
+    "KRN_RATE": 132.85,
+    "GHS_RATE": 196.51,
+    "GAM_RATE": 22.1,
+    "NGI_RATE": 2.77,
+    "NPA_RATE": 15.37,
+    "NIC_RATE": 32.18,
+    "LAO_RATE": 0.12,
+    "ROM_RATE": 277.51,
+    "MOZ_RATE": 19.32,
+    "MYM_RATE": 0.73,
+    "MDG_RATE": 0.3
+  }
+}
